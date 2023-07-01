@@ -1,0 +1,10 @@
+# apps.yml
+- id: 1
+  developer_id: "414141"
+  app_name: "superduperapp"
+  app_status: "not_uploaded"
+  file_id: null
+  file_status: "not_uploaded"
+  created_at: "1998-01-23 12:45:56"
+  updated_at: "1998-01-23 12:45:56"
+

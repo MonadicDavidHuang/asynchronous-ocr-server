@@ -1,0 +1,27 @@
+# apps.yml
+- id: 1
+  developer_id: "414141"
+  app_name: "superduperapp"
+  app_status: "deleted"
+  file_id: 1
+  file_status: "uploaded"
+  created_at: "1998-01-23 12:45:56"
+  updated_at: "1998-01-23 12:45:56"
+
+- id: 2
+  developer_id: "414141"
+  app_name: "superduperapp"
+  app_status: "deleted"
+  file_id: 2
+  file_status: "uploaded"
+  created_at: "1998-01-23 12:45:56"
+  updated_at: "1998-01-23 12:45:56"
+
+- id: 3
+  developer_id: "414141"
+  app_name: "superduperapp"
+  app_status: "deleted"
+  file_id: 3
+  file_status: "uploaded"
+  created_at: "1998-01-23 12:45:56"
+  updated_at: "1998-01-23 12:45:56"

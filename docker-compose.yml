@@ -1,0 +1,15 @@
+version: '3'
+
+services:
+  database:
+    image: mysql:8.0
+    container_name: asynchronous-ocr-server-rds
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: test-asynchronous-ocr-server-database
+      MYSQL_USER: asynchronous-ocr-server
+      MYSQL_PASSWORD: asynchronous-ocr-server
+      TZ: 'Asia/Tokyo'
+    command: mysqld --character-set-server=utf8mb4 --collation-server=utf8mb4_unicode_ci
+    ports:
+      - 3307:3306

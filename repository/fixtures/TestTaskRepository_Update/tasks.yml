@@ -1,0 +1,36 @@
+# tasks.yml
+- id: 1
+  open_task_id: "01ARZ3NDEKTSV4RRFFQ69G5FAA"
+  task_status: "pending"
+  image_file_id: 1
+  image_file_status: "uploaded"
+  caption: null
+  created_at: "1998-01-23 12:45:56"
+  updated_at: "1998-01-23 12:45:56"
+
+- id: 2
+  open_task_id: "01ARZ3NDEKTSV4RRFFQ69G5FAB"
+  task_status: "pending"
+  image_file_id: 2
+  image_file_status: "uploaded"
+  caption: null
+  created_at: "1998-01-23 12:45:56"
+  updated_at: "1998-01-23 12:45:56"
+
+- id: 3
+  open_task_id: "01ARZ3NDEKTSV4RRFFQ69G5FAC"
+  task_status: "pending"
+  image_file_id: 3
+  image_file_status: "uploaded"
+  caption: null
+  created_at: "1998-01-23 12:45:56"
+  updated_at: "1998-01-23 12:45:56"
+
+- id: 4
+  open_task_id: "01ARZ3NDEKTSV4RRFFQ69G5FAD"
+  task_status: "pending"
+  image_file_id: 4
+  image_file_status: "uploaded"
+  caption: null
+  created_at: "1998-01-23 12:45:56"
+  updated_at: "1998-01-23 12:45:56"

@@ -1,0 +1,5 @@
+db_host: "127.0.0.1"
+db_port: "3307"
+db_database: "test-asynchronous-ocr-server-database"
+db_user: "asynchronous-ocr-server"
+db_pass: "asynchronous-ocr-server"
